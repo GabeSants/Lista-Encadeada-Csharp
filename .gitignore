@@ -1,0 +1,26 @@
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos de usuário do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Arquivos de configuração do .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos de log
+*.log
+
+# Arquivos de saída específicos do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos gerados pelo Rider
+.idea/
+
+# Arquivos de backup
+*~
